@@ -1,4 +1,4 @@
-set number
+set number relativenumber
 syntax enable
 set showcmd
 set cursorline
