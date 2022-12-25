@@ -1,0 +1,2 @@
+# Append a slash to completed names which are symbolic links.
+set mark-symlinked-directories on
